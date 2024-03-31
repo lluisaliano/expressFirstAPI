@@ -1,4 +1,4 @@
-// Server
+// Server Logic
 import Express from 'express';
 import http from 'http';
 import {addActivity, closeConnection, getActivities, startConnection} from './Utils/utils';
