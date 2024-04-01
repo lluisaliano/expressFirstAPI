@@ -25,7 +25,7 @@ Installation
 
     npm install
 
-    Set up your environment variables. Change user and password on utils/psql.ts file.
+    Set up your environment variables. Change user and password on utils/pgsql.ts file.
 
     Initialize postgres:
 
