@@ -1,4 +1,4 @@
-# First Express API with TypeScript and PostgreSQL
+# Express API with TypeScript and PostgreSQL
 
 This project is a simple Express API built using TypeScript. It serves as your first backend project, developed within a day! The API stores information in a PostgreSQL database.
 Features
